@@ -1,45 +1,45 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Melhores EDM",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Opinião da Casa",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Assista o mais último clipe de Porter Robinson",
+          "url": "https://www.youtube.com/watch?v=4SZEDBFPpgw"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Porter Robinson - Something Comforting",
+          "url": "https://www.youtube.com/watch?v=-C-2AqRD8io"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Anamanaguchi - On My Own",
+          "url": "https://www.youtube.com/watch?v=KJTLJQKp2jE"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Porter Robinson - Sad Machine",
+          "url": "https://www.youtube.com/watch?v=HAIDqt2aUek"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Madeon - Home",
+          "url": "https://www.youtube.com/watch?v=Cxq3GIxlv20"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Madeon - Beings ",
+          "url": "https://www.youtube.com/watch?v=tAhT6kFWkAo"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Porter Robinson - Sea of Voices",
+          "url": "https://www.youtube.com/watch?v=lSooYPG-5Rg"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Porter Robinson & Madeon - Shelter",
+          "url": "https://www.youtube.com/watch?v=fzQ6gRAEoy0"
         }        
       ]
     },
