@@ -4,7 +4,7 @@ import { FooterBase } from './styles';
 function Footer() {
   return (
     <FooterBase>
-      sdasdasdasdssad
+      Shelter 2020
     </FooterBase>
   );
 }
