@@ -43,11 +43,14 @@ const Slider = ({ children }) => (
   <Container>
     <SlickSlider {...{
       dots: false,
-      infinite: false,
-      speed: 300,
+      infinite: true,
+      speed: 500,
       centerMode: false,
       variableWidth: true,
       adaptiveHeight: true,
+      
+      
+      
     }}
     >
       {children}
@@ -56,3 +59,4 @@ const Slider = ({ children }) => (
 );
 
 export default Slider; 
+

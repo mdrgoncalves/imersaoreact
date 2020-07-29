@@ -44,32 +44,32 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Clássicos dos Jogos",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Relembrando os Velhos Tempos",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Chrono Cross - Another Guldover",
+          "url": "https://www.youtube.com/watch?v=FVqh7uiDgK4"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Chrono Trigger - Yearnings of Wind (600AD)",
+          "url": "https://www.youtube.com/watch?v=RqZaFDA7PXY"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Final Fantasy X - To Zanarkand",
+          "url": "https://www.youtube.com/watch?v=h-0G_FI61a8"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "TLoZ Ocarina of Time - Gerudo Valley",
+          "url": "https://www.youtube.com/watch?v=0hEYvdMoF2g"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Portal - Still Alive",
+          "url": "https://www.youtube.com/watch?v=Y6ljFaKRTrI"
         }
       ]
     },
